@@ -1,0 +1,120 @@
+body {
+  font-family: sans-serif;
+  margin: 0;
+}
+
+h1 {
+  font-size: 60px;
+  color: #000B49;
+}
+
+h2, h3, h4 {
+  color: #000B49;
+}
+
+hr {
+  width: 200px;
+}
+
+a {
+  text-decoration: none;
+  width: 100px;
+  padding-top: 5px;
+  height: 60px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  background-color: #000B49;
+  color: #fff;
+}
+
+a:hover {
+  text-decoration: none;
+  padding-right: 10px;
+  font-size: 20px;
+  color: #fff;
+}
+
+/* Class*/
+
+.container {
+  width: 750px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.profile-img {
+  width: 250px;
+  height: 250px;
+  border-radius: 50%;
+  padding-top: 20px;
+  padding-bottom: 20px;
+
+}
+
+.about {
+  text-align: center;
+  padding-top: 150px;
+  padding-bottom: 150px;
+}
+
+.header {
+  padding-top: 200px;
+  padding-bottom: 200px;
+  text-align: center;
+}
+
+.experience {
+  padding-top: 70px;
+  padding-bottom: 140px;
+
+}
+
+.Education {
+  padding-top: 20px;
+
+}
+
+.skills {
+  text-align: center;
+  padding-top: 20px;
+  padding-bottom: 20px;
+}
+
+.Hobbies {
+  text-align: center;
+  padding-top: 200px;
+  padding-bottom: 200px;
+}
+
+/*Containers*/
+nav {
+
+  height: 60px;
+  padding-top: 20px;
+  position: fixed;
+  top: 0;
+  background-color: #000B49;
+
+}
+nav a {
+  text-align: center;
+  text-decoration: none;
+  padding-right: 10px;
+  font-size: 20px;
+  color: #fff;
+}
+
+nav a:hover {
+  width: 60px;
+  background-color: #406882;
+  color: #fff;
+
+}
+
+footer {
+  text-align: center;
+  background-color: #000B49;
+  height: 40px;
+  padding-top: 5px;
+  color: #fff;
+}
